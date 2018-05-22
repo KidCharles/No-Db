@@ -1,0 +1,132 @@
+/* @import url './camera.jpg' */
+
+
+.app{
+  background-image: url('background.jpg'); 
+  background-repeat: repeat;
+  background-size: 100vw 100vh;
+  }
+
+.App-logo {
+  position: relative;
+    top: -30px;
+    left: .01%;
+  height: 27vh;
+}
+
+
+.sidenav {
+  background-image:
+  linear-gradient(
+    rgba(255, 255, 255, 0.829), #05050500
+  );
+  display: flex;
+  position: fixed;
+  width: 280px;
+  height: 100vh;
+  padding: 10px 10px 0px 10px;
+ 
+}
+
+.wish{
+  
+  background-image:
+      linear-gradient(
+        rgba(255, 255, 255, 0), #050505
+      );
+      color: white;
+  margin-left: 370px; 
+  margin-right: 100px;
+  padding-left: 150px;
+  font-family: 'Raleway', sans-serif;}
+  
+
+
+.well{
+    background-image:
+      linear-gradient(
+        rgba(0, 0, 0, 0.74), #00000000
+      );
+      color: white;
+   margin-left: 370px ;
+   margin-right: 100px;
+ 
+  }
+
+h1{
+  font-size: 50px;
+  font-family: 'Raleway', sans-serif;
+  padding-top: 50px;
+  padding-left: 150px;
+}
+
+div{
+  font-family: 'Raleway', sans-serif;}
+
+#wellImage{
+  height: 200px;
+  border: none;
+  display: block;
+  margin: 0px;
+  
+}
+
+
+.wishes{
+  background-image:
+  linear-gradient(
+    rgb(255, 255, 255), #00000000
+  );
+  color: rgb(65, 65, 65);
+  margin: 60px;
+  margin-top: -10px;
+  height: 400px;
+  width: 400px;
+  padding-left: 50px;
+  padding-top: 20px;
+
+
+}
+
+p{
+  font-size: 42px;
+  font-family: 'Raleway', sans-serif;};
+ 
+
+button{
+  padding-left: 90px;
+  font-family: 'Raleway', sans-serif;
+}
+ 
+
+h3{
+ font-size: 42px;
+ text-align: center;
+ padding-right: 40px;
+ font-family: 'Raleway', sans-serif;}
+
+h5{
+  font-size: 20px;
+  text-align: center;
+
+}
+
+.editButt{
+  background: rgba(173, 216, 230, 0);
+  border: 0px;
+  padding-left: 10px;
+}
+.delButt{
+  background: rgba(173, 216, 230, 0);
+  color: ghostwhite;
+  font-size: 40px;
+  border: 0px;
+  padding-left: 130px;
+}
+
+.input{
+  background: rgba(255, 255, 255, 0.144);
+  border: 1px;
+}
+
+
